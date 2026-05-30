@@ -1,0 +1,14 @@
+target/
+bin/
+logs/
+otp-output.txt
+
+.idea/
+*.iml
+.project
+.classpath
+.factorypath
+.settings/
+
+*.log
+.DS_Store
