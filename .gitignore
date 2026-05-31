@@ -1,7 +1,6 @@
 target/
 bin/
 logs/
-otp-output.txt
 
 .idea/
 *.iml
